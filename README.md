@@ -5,7 +5,10 @@ Car Data Analysis by Python and Streamlit
 Data Source: https://www.kaggle.com/code/shubhamsinghgharsele/exploratory-data-analysis-on-automobile-dataset/data
 
 Goal of this project:
-Automobile Data visualization using Machine Learning
+Automobile Data visualization using Machine Learning.The objective of this report is to perform exploratory data analysis to find the primary relationships between features, which include univariate analysis, which
+includes finding the maximum and minimum, such as the weight, engine size,
+horsepower, and price. 
+
 
 Exploratory Data Analysis:
 Read the data as Pandas Dataframe
