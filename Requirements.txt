@@ -1,0 +1,9 @@
+Requirements:
+
+streamlit
+numpy
+pandas
+seaborn
+pillow
+matplotlib
+sklearn
